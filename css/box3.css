@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor{
+
+  overflow: hidden;
+  padding: 2px;
+  width: 1000px;
+  height: 510px;
+  text-align: center;
+  margin: 15px auto;
+  background: rgb(209, 209, 209);
+
+}
+
+.a{
+  border: 3px solid;
+  width: 650px;
+  height:150px;
+  float: left;
+  margin-bottom: 8px;
+  background: rgb(226, 232, 190);
+}
+
+.b{
+  border: 1px solid;
+  padding: 2px;
+  width: 345px;
+  height: 65px;
+  float: right;
+  margin-bottom: 20px;
+  background: rgb(222, 186, 0);
+}
+
+.b2{
+  border: 1px solid;
+  padding: 2px;
+  width: 345px;
+  height: 65px;
+  float: right;
+  margin-bottom: 8px;
+  background: rgb(222, 186, 0);
+}
+
+.c{
+  border: 1px solid;
+  width: 196px;
+  height: 25px;
+  margin-left: 2px;
+  margin-bottom: 8px;
+  float: left;
+  background: rgb(222, 186, 0);
+}
+
+.d{
+  border: 1px solid;
+  width: 246px;
+  height: 65px;
+  margin-left: 2px;
+  margin-bottom: 8px;
+  float: left;
+  background: rgb(255, 255, 255);
+}
+
+.e{
+  border: 1px solid;
+  width: 993px;
+  height:150px;
+  margin-left: 2px;
+  margin-bottom: 8px;
+  float: left;
+  background: rgb(255, 255, 255);
+}
+
+.f1{
+  border: 1px solid;
+  width: 120px;
+  height:77px;
+  margin-left: 35px;
+  margin-bottom: 8px;
+  float: left;
+  background: rgb(28, 109, 135);
+
+}
+
+.f{
+  border: 1px solid;
+  width: 120px;
+  height:77px;
+  margin-left: 15px;
+  margin-bottom: 8px;
+  float: left;
+  background: rgb(28, 109, 135);
+}

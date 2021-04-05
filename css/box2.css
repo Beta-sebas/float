@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+div{
+  border: 3px solid;
+  padding: 3px;
+  width: 470px;
+  height: 510px;
+  text-align: center;
+  margin: 15px auto;
+  font-family: fantasy;
+
+}
+
+header{
+  background: #CCCCCC;
+  margin-bottom: 8px;
+  height: 60px;
+  text-align: center;
+
+}
+
+nav{
+  background: #ECEAEA;
+  margin-bottom: 8px;
+}
+
+section{
+  float: left;
+  width: 290px;
+  height: 360px;
+  margin-bottom: 8px;
+  margin-right: 5px;
+  background: #ECEAEA
+}
+
+aside{
+  background: #CCCCCC;
+  float: left;
+  width: 157px;
+  height: 360px;
+  margin-bottom: 8px;
+  background: #CCCCCC;
+
+}
+footer{
+  background: #CCCCCC;
+  clear: both;
+  height: 35px;
+}

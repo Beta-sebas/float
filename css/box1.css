@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor{
+
+  border: 3px solid;
+  padding: 5px;
+  width: 490px;
+  height: 510px;
+  text-align: center;
+  margin: 15px auto;
+  background: rgb(20, 10, 136);
+  border-radius: 10px 10px 10px 10px;
+  text-align: left;
+
+
+}
+
+.slideshow{
+  float: right;
+  background: rgb(100, 168, 238);
+  width: 295px;
+  height: 160px;
+  margin-bottom: 8px;
+  border-radius: 10px 10px 10px 10px;
+  color: #ffffff;
+
+}
+
+.left{
+  float: left;
+  background: rgba(198, 245, 255, 0.84);
+  width: 170px;
+  height: 320px;
+  margin-right: 9px;
+  border-radius: 10px 10px 10px 10px;
+
+}
+
+.img1{
+  float:left;
+  width: 135px;
+  height: 70px;
+  background: rgb(100, 168, 238);
+  margin-right: 24px;
+  margin-bottom: 8px;
+  border-radius: 10px 10px 10px 10px;
+  color: #ffffff;
+
+}
+
+.img2{
+  float:left;
+  width: 135px;
+  height: 70px;
+  background: rgb(100, 168, 238);
+  margin-bottom: 8px;
+  border-radius: 10px 10px 10px 10px;
+  color: #ffffff;
+
+}
+
+.text{
+  background: rgb(100, 168, 238);
+  float: right;
+  width: 295px;
+  height: 235px;
+  border-radius: 10px 10px 10px 10px;
+  color: #ffffff;
+
+}
+
+.dentro{
+  padding: 46px 30px;
+  margin: 7px;
+  background: rgba(246, 82, 82, 0.52);
+  border-radius: 10px 10px 10px 10px;
+}
+
+h5{
+  margin-left:  5px;
+}
+
+.titulo1{
+  color: #ffffff;
+}
+
+.titulo2{
+  margin-left:  5px;
+}
+
+pre{
+  float: left;
+  color: #ffffff;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
